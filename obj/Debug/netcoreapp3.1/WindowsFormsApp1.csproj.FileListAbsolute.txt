@@ -1,0 +1,17 @@
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.exe
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.deps.json
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.runtimeconfig.json
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.runtimeconfig.dev.json
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.dll
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.pdb
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form1.resources
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.AssemblyInfo.cs
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.dll
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.pdb
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.genruntimeconfig.cache
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Toan\Desktop\Project C++\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form2.resources
